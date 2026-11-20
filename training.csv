@@ -1,0 +1,31 @@
+label,report
+Bug,Reserve creates duplicate bookings after a double click
+Bug,Export crashes when the report contains no rows
+Bug,The page freezes while saving my settings
+Bug,Search returns the wrong record for an exact match
+Bug,A valid upload fails with an error
+Bug,The inventory count stays unchanged after checkout
+Bug,The link opens a blank page on my phone
+Bug,My edits disappear after I refresh the screen
+Bug,The same payment appears twice in the list
+Bug,The chart shows a negative count after a refund
+Feature request,Please add an option to download reports as PDF
+Feature request,I would like a way to filter results by date
+Feature request,Could you add support for dark mode
+Feature request,Let users sort bookings by owner
+Feature request,Please allow multiple attachments per issue
+Feature request,It would help to preview a file before upload
+Feature request,I want a button to copy the current route
+Feature request,Please introduce saved views for the dashboard
+Feature request,Add an optional reminder for overdue equipment
+Feature request,Can you support recurring reservations
+Question,How do I change my display name
+Question,Where can I find the export settings
+Question,What does pending mean on an invoice
+Question,Is there a way to recover a deleted item
+Question,Which file formats does import accept
+Question,Do I need an account to browse the map
+Question,When does a reservation expire
+Question,Why is a deposit required for this item
+Question,Where are my saved searches stored
+Question,How can I tell whether the upload finished

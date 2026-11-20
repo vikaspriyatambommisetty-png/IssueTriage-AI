@@ -1,0 +1,31 @@
+label,report
+Bug,I clicked Reserve twice for one camera. My reservations page shows two bookings.
+Bug,The app crashes when I open a CSV with an empty header
+Bug,My campus selection disappears after refresh
+Bug,Export downloaded a blank file despite five visible rows
+Bug,Searching for Lab returns the Library record
+Bug,Releasing a camera lowers the available count
+Bug,The date filter freezes the dashboard
+Bug,One receipt appears twice after import
+Bug,Can you fix the error when I save my profile?
+Bug,The total still shows yesterday's value after a new payment
+Feature request,Please add keyboard shortcuts for the map
+Feature request,I would like a monthly summary by email
+Feature request,Allow visitors to compare two walking routes
+Feature request,Add a way to group issues by team
+Feature request,Please support exporting invoices to Excel
+Feature request,Could you include a print view for reservations?
+Feature request,Let me select several rows and archive them together
+Feature request,It would help to attach a photo to a booking
+Feature request,I want to bookmark frequent destinations
+Feature request,Please offer an option to hide closed stops
+Question,How do I remove a saved location?
+Question,Where can I see my reservation history?
+Question,What does the dashed line on the campus map mean?
+Question,Which columns are required in the payments file?
+Question,Do reports include canceled bookings?
+Question,When will my draft be deleted?
+Question,Is a password required to view the shared link?
+Question,How can I check which version is deployed?
+Question,Where is the list of supported currencies?
+Question,Does the planner count waiting time?
